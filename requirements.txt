@@ -1,0 +1,6 @@
+tensorflow>=2.15
+PyWavelets
+numpy
+pandas
+scikit-learn
+matplotlib
