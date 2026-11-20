@@ -135,13 +135,7 @@ You can override any of these from the command line (`--lr`, `--epochs`, `--pati
 
 If you use this code, please cite:
 
-```bibtex
-@inproceedings{tharmini2026efficient,
-  title     = {Efficient Paddy Leaf Disease Classification through Progressive Multiscale Network Compression},
-  author    = {Tharmini, Kiriharan and Kokul, Thanikasalam and Ramanan, Amirthalingam and Fernando, Subha},
-  booktitle = {TODO},
-  year      = {2026}
-}
+
 
 @article{tharmini2026haar,
   title   = {Haar wavelet-guided dynamic feature pyramid network for an efficient paddy leaf disease classification},
